@@ -1,5 +1,6 @@
 # pands-problem-sheet
-Problem Sheets For Programming and Scripting
+Problem Sheets For Programming and Scripting - See below my workings / research / logic for the weekly tasks
+
 Week 2 Project - Needed to reasearch how to Print request for values, followed by adding the 2 values in cents, then converting to euro and cent in readable format  Reading done: https://pythonguides.com/add-two-numbers-in-python/ https://www.codingem.com/python-how-to-ask-for-user-input/, https://www.geeksforgeeks.org/how-to-take-integer-input-in-python/, https://stackoverflow.com/questions/26218010/how-do-you-get-python-to-ask-the-user-for-an-input-x-amount-of-times, https://www.programiz.com/python-programming/examples/add-number, https://www.adamsmith.haus/python/answers/how-to-format-a-float-as-currency-in-python, https://www.learndatasci.com/solutions/python-double-slash-operator-floor-division/, https://www.learndatasci.com/solutions/python-double-slash-operator-floor-division/
 
 Week 3 Project - Researched how to mask digits in Python, using following link https://stackoverflow.com/questions/59342854/how-to-mask-input-and-display-the-last-4-digit-using-python and https://www.educative.io/answers/how-to-mask-a-credit-card-number-with-asterisks-in-python
